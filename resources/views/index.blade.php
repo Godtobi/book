@@ -41,10 +41,10 @@
       <div class="site-navbar site-navbar-target js-sticky-header">
         <div class="container">
           <div class="row align-items-center">
-            <div class="col-6 col-lg-6">
-              <h1 class="my-0 site-logo"><a href="/">The Communion of the Holy Spirit </a></h1>
+            <div class="col-10 col-sm-8 col-lg-6">
+              <h6 class="my-0 site-logo"><a href="/">The Communion of the Holy Spirit </a></h6>
             </div>
-            <div class="col-6 col-lg-6">
+            <div class="col-2 col-sm-4 col-lg-6">
               <nav class="site-navigation text-right" role="navigation">
                 <div class="container">
 

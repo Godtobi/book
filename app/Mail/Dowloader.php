@@ -29,14 +29,15 @@ class Dowloader extends Mailable
      */
     public function build()
     {
-      $address = 'oyebamijitobi@gmail.com';
+      $address = 'no-reply@stanlabvr.com';
       $subject ="Book Downloaded";
+      $name = 'Book';
 
       $email = $this->mail;
 
 
       return $this->view('mail',compact('email'))
-        ->from($address)
+        ->from($address,$name)
         ->subject($subject);
     }
 }

@@ -231,13 +231,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   padding: 15px 0; }
   .site-navbar .site-logo {
-    font-weight: 200;
+    font-weight: 100;
     line-height: 0;
     position: relative; }
     .site-navbar .site-logo a {
-      font-weight: 200;
+      font-weight: 100;
       color: #fff;
-      font-size: 2rem;
+      font-size: 17px;
       font-weight: bold; }
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; }

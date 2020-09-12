@@ -19,11 +19,11 @@ class AppController extends Controller
       ]);
 
       try{
-        Mail::to('oyebamijitobi@gmail.com')->send(new Dowloader($request->email));
+        Mail::to('pstyomiomotunde@gmail.com')->send(new Dowloader($request->email));
         return response()->download(public_path('/wheat.png'));
       }
       catch (Exception $exception){
-
+          throw $exception;
       }
 
 
