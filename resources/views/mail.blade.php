@@ -1,0 +1,1 @@
+{{$email}} downloaded your book
