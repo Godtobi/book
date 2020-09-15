@@ -20,7 +20,7 @@ class AppController extends Controller
 
       try{
         Mail::to('pstyomiomotunde@gmail.com')->send(new Dowloader($request->email));
-        return response()->download(public_path('/wheat.png'));
+        return response()->download(public_path('/The Communion of the Holy Spirit by  Yomi Omotunde.pdf'));
       }
       catch (Exception $exception){
           throw $exception;
