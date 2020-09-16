@@ -102,7 +102,7 @@
                 {{--<span class="icon-book"></span>--}}
               {{--</span>--}}
               <h3>Chapter 1</h3>
-              <p>The Communion of the Holy Spirit - Explore the meaning of the communion of the Holy Spirit and its multi-dimensional.</p>
+              <p>The Communion of the Holy Spirit - Gain more insight into the meaning of the communion of the Holy Spirit. See the connection between the grace of the Lord Jesus Christ, the love of God and the communion of the Holy Spirit as mentioned in 2 Corinthians 13:14.</p>
             </div>
             
           </div>
@@ -112,7 +112,7 @@
                 {{--<span class="icon-bookmark"></span>--}}
               {{--</span>--}}
               <h3>Chapter 2</h3>
-              <p>Jesus and the Communion of the Holy Spirit - How did the Lord Jesus fulfil His earthly ministry effectively in about three years? Read How He leveraged the communion of the Holy Spirit.</p>
+              <p>Jesus and the Communion of the Spirit - The earthly ministry of Jesus was literally a fulfilment of prophecies. This was made possible because He walked in partnership with the Holy Spirit. From the beginning of His ministry in Galilee to His death on the cross in Jerusalem, He was fully led by the Spirit of God.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4">
@@ -121,7 +121,7 @@
                 {{--<span class="icon-files-o"></span>--}}
               {{--</span>--}}
               <h3>Chapter 3</h3>
-              <p>Simeon and the Communion of the Holy Spirit - In this chapter the author takes you on a journey of how one of the early apostles enjoyed the Communion of the Holy Spirit.</p>
+              <p>Simeon and the Communion of the Spirit - God revealed to Simeon that he would not see death until he had seen the Messiah. In this chapter, the author showed that it was through the communion of the Holy Spirit that Simeon was able to enter into the fulfilment of that revelation.</p>
             </div>
           </div>
 
@@ -131,7 +131,7 @@
                 {{--<span class="icon-font"></span>--}}
               {{--</span>--}}
               <h3>Chapter 4</h3>
-              <p>Philip and the Communion of the Holy Spirit - The man who explored the supernatural and the power of the ages to come in his evangelical ministry through the communion of the Holy Spirit.</p>
+              <p>Philip and the Communion of the Spirit - From the life of the Philip, the author showed that when we learn to follow the Holy Spirit in obedience, even when it isn't convenient, great things are born.</p>
             </div>
             
           </div>
@@ -141,7 +141,7 @@
                 {{--<span class="icon-photo"></span>--}}
               {{--</span>--}}
               <h3>Chapter 5</h3>
-              <p>Egypt, To go or not to go  - When you need to make some of the most critical decisions in your life, where there are not obvious answers of what is right or wrong, learn how the Communion of the Holy Spirit helps.</p>
+              <p>Egypt, To go or not to go?  - How do you know which way to go per time? Do you go the way you have always gone? Or do you go the way others have gone? Drawing insight from Abraham, Isaac and Jacob, the author showed the need for a personal walk with God through His Spirit in making destiny decisions in life.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4">
@@ -150,7 +150,7 @@
                 {{--<span class="icon-text-height"></span>--}}
               {{--</span>--}}
               <h3>Chapter 6</h3>
-              <p>How to Experience the Communion of the Holy Spirit - In this Chapter, the author lays out practical steps and on how a believer can experience the communion of the Holy Spirit and have a prosperous Christian journey.</p>
+              <p>How to Experience the Communion of the Holy Spirit - In this Chapter, the author lays out six practical steps that will help every believer experience the communion of the Holy Spirit.</p>
             </div>
           </div>
 
@@ -186,7 +186,7 @@
       <div class="bg-img" style="background-image: url('images/user.jpg');"></div>
       <div class="text">
         <h3>About the Author</h3>
-        <p>Yomi Omotunde is a physiotherapist by training and a teacher of the word of God by calling. He has the mandate to bring people into the experiential knowledge of God through the ministry of the word and the Spirit of God. He is married to his sweetheart Adebusola, and they are blessed with wonderful children.</p>
+        <p>Yomi Omotunde is a physiotherapist by training and a teacher of the word of God by calling. He has the mandate to bring people into the experiential knowledge of God through the ministry of the word and the Spirit of God. He is married to his sweetheart Adebusola, and they both are the pastors of The Chief Cornerstone Church, Lagos. They are blessed with wonderful children.</p>
 
 
 
