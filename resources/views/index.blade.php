@@ -101,8 +101,8 @@
               {{--<span class="wrap-icon">--}}
                 {{--<span class="icon-book"></span>--}}
               {{--</span>--}}
-              <h3>Chapter 1</h3>
-              <p>The Communion of the Holy Spirit - Gain more insight into the meaning of the communion of the Holy Spirit. See the connection between the grace of the Lord Jesus Christ, the love of God and the communion of the Holy Spirit as mentioned in 2 Corinthians 13:14.</p>
+              <h3>Chapter 1 The Communion of the Holy Spirit</h3>
+              <p>  Gain more insight into the meaning of the communion of the Holy Spirit. See the connection between the grace of the Lord Jesus Christ, the love of God and the communion of the Holy Spirit as mentioned in 2 Corinthians 13:14.</p>
             </div>
             
           </div>
@@ -111,8 +111,8 @@
               {{--<span class="wrap-icon">--}}
                 {{--<span class="icon-bookmark"></span>--}}
               {{--</span>--}}
-              <h3>Chapter 2</h3>
-              <p>Jesus and the Communion of the Spirit - The earthly ministry of Jesus was literally a fulfilment of prophecies. This was made possible because He walked in partnership with the Holy Spirit. From the beginning of His ministry in Galilee to His death on the cross in Jerusalem, He was fully led by the Spirit of God.</p>
+              <h3>Chapter 2 Jesus and the Communion of the Spirit</h3>
+              <p>  The earthly ministry of Jesus was literally a fulfilment of prophecies. This was made possible because He walked in partnership with the Holy Spirit. From the beginning of His ministry in Galilee to His death on the cross in Jerusalem, He was fully led by the Spirit of God.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4">
@@ -120,8 +120,8 @@
               {{--<span class="wrap-icon">--}}
                 {{--<span class="icon-files-o"></span>--}}
               {{--</span>--}}
-              <h3>Chapter 3</h3>
-              <p>Simeon and the Communion of the Spirit - God revealed to Simeon that he would not see death until he had seen the Messiah. In this chapter, the author showed that it was through the communion of the Holy Spirit that Simeon was able to enter into the fulfilment of that revelation.</p>
+              <h3>Chapter 3 Simeon and the Communion of the Spirit</h3>
+              <p> God revealed to Simeon that he would not see death until he had seen the Messiah. In this chapter, the author showed that it was through the communion of the Holy Spirit that Simeon was able to enter into the fulfilment of that revelation.</p>
             </div>
           </div>
 
@@ -130,8 +130,8 @@
               {{--<span class="wrap-icon">--}}
                 {{--<span class="icon-font"></span>--}}
               {{--</span>--}}
-              <h3>Chapter 4</h3>
-              <p>Philip and the Communion of the Spirit - From the life of the Philip, the author showed that when we learn to follow the Holy Spirit in obedience, even when it isn't convenient, great things are born.</p>
+              <h3>Chapter 4 Philip and the Communion of the Spirit</h3>
+              <p>  From the life of the Philip, the author showed that when we learn to follow the Holy Spirit in obedience, even when it isn't convenient, great things are born.</p>
             </div>
             
           </div>
@@ -140,8 +140,8 @@
               {{--<span class="wrap-icon">--}}
                 {{--<span class="icon-photo"></span>--}}
               {{--</span>--}}
-              <h3>Chapter 5</h3>
-              <p>Egypt, To go or not to go?  - How do you know which way to go per time? Do you go the way you have always gone? Or do you go the way others have gone? Drawing insight from Abraham, Isaac and Jacob, the author showed the need for a personal walk with God through His Spirit in making destiny decisions in life.</p>
+              <h3>Chapter 5 Egypt, To go or not to go?</h3>
+              <p>  - How do you know which way to go per time? Do you go the way you have always gone? Or do you go the way others have gone? Drawing insight from Abraham, Isaac and Jacob, the author showed the need for a personal walk with God through His Spirit in making destiny decisions in life.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4">
@@ -149,8 +149,8 @@
               {{--<span class="wrap-icon">--}}
                 {{--<span class="icon-text-height"></span>--}}
               {{--</span>--}}
-              <h3>Chapter 6</h3>
-              <p>How to Experience the Communion of the Holy Spirit - In this Chapter, the author lays out six practical steps that will help every believer experience the communion of the Holy Spirit.</p>
+              <h3>Chapter 6 How to Experience the Communion of the Holy Spirit</h3>
+              <p> In this Chapter, the author lays out six practical steps that will help every believer experience the communion of the Holy Spirit.</p>
             </div>
           </div>
 
