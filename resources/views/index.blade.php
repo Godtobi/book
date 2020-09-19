@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Booke Colorlib Template</title>
+    <title>The Communion of the Holy Spirit</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Roboto&display=swap" rel="stylesheet">
@@ -340,10 +340,10 @@
         <div  class="row  text-center">
           <div class="col-md-12">
             <div >
-                  <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-                  <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-                  <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-                  <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+                  <a href="https://www.facebook.com/abayomi.omotunde" target="_blank" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                  <a href="https://twitter.com/pstyomiomotunde" target="_blank" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+                  <a href="https://www.instagram.com/pstyomiomotunde" target="_blank" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pstyomiomotunde@gmail.com" target="_blank" class="pl-3 pr-3"><span class="icon-envelope"></span></a>
                 </div>
             {{--<p>--}}
             {{--<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->--}}
