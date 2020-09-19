@@ -183,7 +183,7 @@
     {{--</div>--}}
 
     <div class="author  d-lg-flex" id="about-section">
-      <div class="bg-img" style="background-image: url('images/user.jpg');"></div>
+      <div class="bg-img" style="background-image: url('images/bold.png');"></div>
       <div class="text">
         <h3>About the Author</h3>
         <p>Yomi Omotunde is a physiotherapist by training and a teacher of the word of God by calling. He has the mandate to bring people into the experiential knowledge of God through the ministry of the word and the Spirit of God. He is married to his sweetheart Adebusola, and they both are the pastors of The Chief Cornerstone Church, Lagos. They are blessed with wonderful children.</p>
